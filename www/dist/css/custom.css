@@ -1,0 +1,3 @@
+.site-header::before {
+    background: linear-gradient(57deg, #FFFFFF 0%, #FFFF 100%)!important;
+}
